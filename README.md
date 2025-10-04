@@ -16,4 +16,4 @@
 ## Cài đặt và chạy
 
 ### Requirements
-pip install fastapi uvicorn python-multipart
+pip install fastapi uvicorn python-multipart, oui
